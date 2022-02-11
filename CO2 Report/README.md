@@ -27,7 +27,7 @@ Below is the link to View the dashboard<br>
 https://public.tableau.com/app/profile/prince.gupta5272/viz/PracticeonCo2data/Dashboard1?publish=yes
 
 <h2><b>Co2 Data Analysis Dashboard</b></h2>
-<img Src="">
+<img Src="CO2 Report/Co2 Report.png">
 
 
 	
